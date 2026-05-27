@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvave",
+        "uuid": 10789152,
+        "checksum": "traf3"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
